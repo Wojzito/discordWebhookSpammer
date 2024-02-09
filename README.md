@@ -1,7 +1,6 @@
 <h1 align="center">
     <br>
     Discord Webhook Spammer
-    <br>
 <h1>
 
 # About
